@@ -1,0 +1,63 @@
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+body{
+  background-color: rgba(168, 139, 195, 0.8);
+}
+
+.container{
+  font-style: oblique;
+
+img{
+  width: 700px;
+  height: 650px;
+  border: 2px solid black;
+}
+
+  #logo{
+    width: 150px;
+    height: 150px;
+  }
+}
+
+.h1{
+  text-align: center;
+}
+
+header{
+  text-align: center;
+}
+
+h1{
+  color: rgb(84, 84, 131);
+}
+
+h2{
+  color: rgb(92, 92, 100);
+}
+
+li{
+  margin: 5px auto;
+  padding: 3px 3px;
+}
+
+.hero{
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+
+span{
+  color:#F4B400;
+  size: 20px;
+}
+
+.end{
+  text-align: center;
+}
+
